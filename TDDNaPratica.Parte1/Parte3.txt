@@ -1,0 +1,14 @@
+﻿TDD na Prática
+==========================
+
+- O que é TDD?
+  - origem
+  - xp, lean
+  - o teste guia o código
+  - qualidade x engenharia
+
+- Criar testes automatizados é codar com TDD?
+  - diferenças
+  - baby steps, red/refactor/green
+
+- TDD é melhor? É mais rápido?
